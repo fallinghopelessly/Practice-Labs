@@ -1,2 +1,2 @@
 # Practice-Labs
-Practice labs for Data Analysis with Python on Coursera
+These arePractice labs for Data Analysis with Python course on Coursera
